@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B11F1E928FDCC740000E734 /* Comments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B11F1E828FDCC740000E734 /* Comments.swift */; };
+		0B11F1EB28FDDDD40000E734 /* CommentsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B11F1EA28FDDDD40000E734 /* CommentsTableViewCell.swift */; };
 		0B442A2A28FCFF3700FF364E /* FirebaseStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B442A2928FCFF3700FF364E /* FirebaseStore.swift */; };
 		0B442A2E28FD3D8D00FF364E /* chatusers.json in Resources */ = {isa = PBXBuildFile; fileRef = 0B442A2D28FD3D8D00FF364E /* chatusers.json */; };
 		0B442A3028FD442300FF364E /* FirebaseChatChannel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B442A2F28FD442300FF364E /* FirebaseChatChannel.swift */; };
@@ -69,6 +71,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B11F1E828FDCC740000E734 /* Comments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comments.swift; sourceTree = "<group>"; };
+		0B11F1EA28FDDDD40000E734 /* CommentsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsTableViewCell.swift; sourceTree = "<group>"; };
 		0B442A2928FCFF3700FF364E /* FirebaseStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseStore.swift; sourceTree = "<group>"; };
 		0B442A2D28FD3D8D00FF364E /* chatusers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chatusers.json; sourceTree = "<group>"; };
 		0B442A2F28FD442300FF364E /* FirebaseChatChannel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseChatChannel.swift; sourceTree = "<group>"; };
@@ -280,6 +284,7 @@
 			children = (
 				0B5F57D028FA9C6400E504C1 /* ChatCollectionViewCell */,
 				0B5F57D628FAC4BC00E504C1 /* ChatRowTableViewCell.swift */,
+				0B11F1EA28FDDDD40000E734 /* CommentsTableViewCell.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -297,6 +302,7 @@
 			isa = PBXGroup;
 			children = (
 				0BFE598A28FBE79E0073CDB7 /* Chat.swift */,
+				0B11F1E828FDCC740000E734 /* Comments.swift */,
 				0BFE599028FC44A00073CDB7 /* chat.json */,
 				0B442A2D28FD3D8D00FF364E /* chatusers.json */,
 			);
@@ -457,6 +463,7 @@
 				0BFE598B28FBE79E0073CDB7 /* Chat.swift in Sources */,
 				0B5F57D728FAC4BC00E504C1 /* ChatRowTableViewCell.swift in Sources */,
 				0B5F57D228FA9C8A00E504C1 /* StatusViewCollectionViewCell.swift in Sources */,
+				0B11F1E928FDCC740000E734 /* Comments.swift in Sources */,
 				0BFE59AC28FC781A0073CDB7 /* Extension+UserDefauts.swift in Sources */,
 				0BFE59A428FC6C2C0073CDB7 /* CustomTextField.swift in Sources */,
 				0BFE599328FC44D60073CDB7 /* Spinner.swift in Sources */,
@@ -475,6 +482,7 @@
 				0B5A83FA28F89F180063FF90 /* AppConstants.swift in Sources */,
 				0B5A83FC28F89F8B0063FF90 /* BaseViewController.swift in Sources */,
 				0B442A2A28FCFF3700FF364E /* FirebaseStore.swift in Sources */,
+				0B11F1EB28FDDDD40000E734 /* CommentsTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

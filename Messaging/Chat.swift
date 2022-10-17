@@ -64,7 +64,7 @@ struct ChatUsers: Codable {
 extension Chat: DatabaseRepresentation {
     
     var representation: [String : Any] {
-        var rep: [String : Any] = [
+        let rep: [String : Any] = [
             "created": created,
             "user_name": user_name,
             "text": text,
