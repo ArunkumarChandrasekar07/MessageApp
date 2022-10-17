@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Sarah Fier",
+        "id": "Sarah",
+        "email": "sarah@fearstreet.com",
+        "description": "Sarah Fier is the posthumous overarching protagonist of the Netflix dark horror film Fear Street trilogy.",
+        "profileImage": "sarah_fier"
+    },
+    {
+        "name": "Nancy Wheeler",
+        "id": "Nancy",
+        "email": "nancy@strangerthings.com",
+        "description": "Nancy Wheeler is a fictional character from the Netflix television show Stranger Things, portrayed by Natalia Dyer",
+        "profileImage": "nancy_wheeler"
+    },
+    {
+        "name": "Jim Hopper",
+        "id": "Hopper",
+        "email": "hopper@strangerthings.com",
+        "description": "Jim Hopper is a fictional character from the Netflix science fiction horror drama series Stranger Things. He is the chief of police in Hawkins, Indiana, who, throughout the first three seasons, investigates the strange occurrences in the town",
+        "profileImage": "jim_hopper"
+    },
+    {
+        "name": "Archie Andrews",
+        "id": "Archie",
+        "email": "archie@riverdale.com",
+        "description": "Archibald \"Archie\" Andrews, created in 1941 by publisher John L. Goldwater and artist Bob Montana in collaboration with writer Vic Bloom, is the main character in the Archie Comics franchise",
+        "profileImage": "archie_andrews"
+    },
+    {
+        "name": "Betty Cooper",
+        "id": "Betty",
+        "email": "betty@riverdale.com",
+        "description": "Elizabeth \"Betty\" Cooper is one of the main characters appearing in American comic books published by Archie Comics. She is the lead guitarist, percussionist and one of the three singers of The Archies.",
+        "profileImage": "betty_cooper"
+    },
+    {
+        "name": "Veronica Lodge",
+        "id": "Veronica",
+        "email": "veronica@riverdale.com",
+        "description": "Veronica Cecilia Lodge is one of the main characters in the Archie Comics franchise, and is the keyboardist and one of the three vocalists of rock band The Archies. She is from New York but currently resides in the town of Riverdale, with her parents Hiram Lodge and Hermione Lodge.",
+        "profileImage": "veronica_lodge"
+    },
+    {
+        "name": "Cheryl Blossom",
+        "id": "Cheryl",
+        "email": "cheryl@riverdale.com",
+        "description": "Cheryl Marjorie Blossom is the main character on The CW's Riverdale. She is portrayed by Madelaine Petsch. Cheryl is the daughter of Penelope and the late Clifford Blossom and, as well as the twin sister of the late Jason Blossom, who suffered a tragic demise mysteriously on July 11th.",
+        "profileImage": "cheryl_blossom"
+    },
+    {
+        "name": "Otis Milburn",
+        "id": "Otis",
+        "email": "otis@s*xeducation.com",
+        "description": "Otis Milburn is one of the main characters in Sex Education. He is portrayed by Asa Butterfield. He is an awkward teenager who struggles with his mother's occupation and her interference in his personal and sexual life.",
+        "profileImage": "otis_milburn"
+    },
+    {
+        "name": "Harley Quinn",
+        "id": "Harley",
+        "email": "harley@su*cdesquad.com",
+        "description": "Harley Quinn is a character appearing in American comic books published by DC Comics. Quinn was created by Paul Dini and Bruce Timm as a comic relief henchwoman for the supervillain Joker in Batman: The Animated Series, and debuted in its 22nd episode, \"Joker's Favor\", on September 11, 1992.",
+        "profileImage": "harley_quinn"
+    },
+    {
+        "name": "Walter White",
+        "id": "Walter",
+        "email": "walter@su*cdesquad.com",
+        "description": "Walter Hartwell White Sr., also known by his drug-lord alias Heisenberg, is the main character of the American crime drama television series Breaking Bad, portrayed by Bryan Cranston. Walter was a skilled chemist and co-founder of a technology firm before he accepted a buy-out from his partners.",
+        "profileImage": "walter_white"
+    },
+    {
+        "name": "Billy Butcher",
+        "id": "Butcher",
+        "email": "butcher@su*cdesquad.com",
+        "description": "William J. \"Billy\" Butcher, or \"Billy the Butcher\", is a fictional character and antihero in the comic book and Amazon Prime series The Boys, created by Garth Ennis and Darick Robertson.",
+        "profileImage": "billy_butcher"
+    }
+]
